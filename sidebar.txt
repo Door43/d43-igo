@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[igo:home|Door43 (igo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-igo|d43-igo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-igo/archive/master.zip|d43-igo.zip]]
+
+**Recent Changes**
+{{changes>ns = igo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/igo|Ethnologue data]]
+
